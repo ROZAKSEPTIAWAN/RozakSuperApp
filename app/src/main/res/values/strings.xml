@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RozakSuperApp</string>
+    <string name="details_button">Show details</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="workout_title">Title</string>
+    <string name="workout_description">Description</string>
+
+    <string-array name="options">
+        <item>Lampung</item>
+        <item>Nusa Tenggara Barat</item>
+        <item>Kalimantan</item>
+    </string-array>
+
+    <string name="company">KongVerse Software.inc</string>
+    <string name="welcome">super apps to knows about indonesia</string>
+    <string name="owner">rozax companies group</string>
+</resources>

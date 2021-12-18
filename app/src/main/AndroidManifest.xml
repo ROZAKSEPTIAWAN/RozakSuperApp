@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.rozaksuperapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RozakSuperApp">
+        <activity
+            android:name=".kalimantan.dashboardKalimantan"
+            android:exported="false" />
+        <activity
+            android:name=".kalimantan.DetailKalimantan"
+            android:exported="false" />
+        <activity
+            android:name=".ntb.DetailActNTB"
+            android:exported="false" />
+        <activity
+            android:name=".ntb.dashboardNTB"
+            android:exported="false" />
+        <activity
+            android:name=".jakarta.DetailActJKT"
+            android:exported="false" />
+        <activity
+            android:name=".ListProvinsi"
+            android:exported="false" />
+        <activity
+            android:name=".lampung.DetailActivity"
+            android:exported="true" />
+        <activity
+            android:name=".lampung.dashboard"
+            android:exported="true" />
+        <activity
+            android:name=".jakarta.dashboardJKT"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".splashscreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

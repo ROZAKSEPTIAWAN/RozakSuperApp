@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/font/amatic_sc_bold.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/activity_dashboard.xml" value="0.12182971014492754" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/activity_dashboard2.xml" value="0.10914855072463768" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/activity_dashboard_kalimantan.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/activity_dashboard_ntb.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/activity_dashboards_jkt.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/activity_detail.xml" value="0.14" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/activity_detail_act_jkt.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/activity_detail_act_ntb.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/activity_detail_kalimantan.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/activity_list_provinsi.xml" value="0.11548913043478261" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/activity_splashscreen.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/fragment_work_detail.xml" value="0.12182971014492754" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/fragment_work_detail_j_k_t.xml" value="0.25" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/fragment_work_detail_kalimantan.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/fragment_work_detail_n_t_b.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/fragment_work_list.xml" value="0.22" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/fragment_work_list_j_k_t.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/fragment_work_list_kalimantan.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/RozakSuperApp/app/src/main/res/layout/fragment_work_list_n_t_b.xml" value="0.1598731884057971" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
